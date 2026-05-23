@@ -515,8 +515,8 @@
         "PLUM_22": "#0f1428"
     },
     "background": {
-          "url": "https://gitlab.com/anotheroom1519-group/anotheroom1519-project/-/raw/main/1000237074-converted~3.png",
-    "alpha": 1
+          "url": "https://raw.githubusercontent.com/anakuda-arch/discord-theme/refs/heads/main/1000237074-converted.png",
+    "alpha": 0.4
     },
     "plus": {
         "version": 0,
